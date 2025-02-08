@@ -18,7 +18,8 @@ def home():
         </style>
     </head>
     <body>
-        <h1>Welcome to the Flask GUI</h1>
+        <h1>Welcome to the VTU and this is an workshop on Devops</h1>
+        <h3>This is sample text</h3>
         <button onclick="alert('Button Clicked!')">Click Me</button>
     </body>
     </html>
